@@ -1,0 +1,6 @@
+[submodule "read-account-frontend"]
+	path = read-account-frontend
+	url = git@github.com:cheikhthiam95/read-account-frontend.git
+[submodule "read-account-backend"]
+	path = read-account-backend
+	url = git@github.com:cheikhthiam95/read-account-backend.git
